@@ -10,16 +10,16 @@
 ## UML Diagrams
 
 ### Use Case Diagram
-![Use Case Diagram](path/to/your/image/use_case_diagram.png)
+![Use Case Diagram](use_case_diagram.png)
 
 ### Class Diagram
-![Class Diagram](path/to/your/image/class_diagram.png)
+![Class Diagram](class_diagram.png)
 
 ### Sequence Diagram for User Registration
-![Sequence Diagram](path/to/your/image/sequence_diagram.png)
+![Sequence Diagram](sequence_diagram.png)
 
 ### Activity Diagram for File Upload Process
-![Activity Diagram](path/to/your/image/activity_diagram.png)
+![Activity Diagram](activity_diagram.png)
 
 
 ## Detailed Components
